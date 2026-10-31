@@ -1,5 +1,3 @@
---[[  AETHER by TRJacob  |  loadstring(game:HttpGet("YOUR_RAW_URL"))()  |  RightShift = hide UI  ]]
-
 local Players      = game:GetService("Players")
 local RunService   = game:GetService("RunService")
 local UIS          = game:GetService("UserInputService")
